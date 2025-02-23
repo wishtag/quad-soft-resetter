@@ -1,4 +1,4 @@
-from PIL import ImageGrab, Image
+from PIL import ImageGrab
 import vgamepad as vg
 import time
 

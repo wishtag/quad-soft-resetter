@@ -1,0 +1,19 @@
+{
+    "encounter_name": "Pheromosa",
+    "discord": {
+        "url": "",
+        "name": "Sparkles",
+        "icon": "https://em-content.zobj.net/source/apple/391/sparkles_2728.png",
+        "game": "Ultra Moon"
+    },
+    "buttons": {
+        "A": "vg.XUSB_BUTTON.XUSB_GAMEPAD_B",
+        "B": "vg.XUSB_BUTTON.XUSB_GAMEPAD_A",
+        "X": "vg.XUSB_BUTTON.XUSB_GAMEPAD_Y",
+        "Y": "vg.XUSB_BUTTON.XUSB_GAMEPAD_X",
+        "UP": "vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_UP",
+        "DOWN": "vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_DOWN",
+        "LEFT": "vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_LEFT",
+        "RIGHT": "vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_RIGHT"
+    }
+}
