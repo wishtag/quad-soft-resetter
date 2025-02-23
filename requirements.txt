@@ -1,0 +1,6 @@
+pip install pillow
+pip install pytz
+pip install discord-webhook
+pip install colorama
+pip install vgamepad
+pip install pyautogui

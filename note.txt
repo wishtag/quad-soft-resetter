@@ -1,0 +1,30 @@
+"Time" is not measured in seconds but rather everytime the loop loops
+
+
+Average time between top screen turning black and top screen turning any color other than black
+    108
+    Recommended Timeout: 200
+
+Input is sent - input to interact with pokemon
+Average time between initiating encounter and bottom screen turning black
+    116
+    Recommended Timeout: 200
+
+Input is sent - soft reset input
+Average time between soft reset and top screen turning white
+    161
+    Recommended Timeout: 250
+
+Input is sent - input to click the title
+Average time between top screen turning white and top screen turning black
+    13
+    Recommended Timeout: 100
+
+Average time between top screen turning black and top screen turning any color other than black
+    53
+    Recommended Timeout: 100
+
+Input is sent - input to select saved game
+Average time between top screen turning any color other than black and top screen turning black
+    14
+    Recommended Timeout: 100
